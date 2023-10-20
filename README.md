@@ -16,7 +16,7 @@ In this project, we explore the capabilities of Ray, a powerful distributed comp
 
 ### [Link to Project 1 Files](https://github.com/jddavis-ai/rev-3-advanced-data-science/blob/main/Rev3_Advanced_Data_Science-main/Basic_Ray_Tutorial_with_Deep_Q_Learning.ipynb)
 
-## Project 2: Analysis of Polio Incidences Tutorial using XGboost and Dask
+## Project 2: Analysis of Polio Incidences Tutorial using XGboost and Dask 
 
 ### Overview
 
