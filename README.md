@@ -14,7 +14,7 @@ In this project, we explore the capabilities of Ray, a powerful distributed comp
 
 3. **Custom RL Environment**: We demonstrate how to create a custom reinforcement learning environment, simulating a robot walking down a corridor. This section provides insights into creating custom environments for RL projects.
 
-### [Link to Project 1 Files]([project1_files/)](https://github.com/jddavis-ai/rev-3-advanced-data-science/blob/main/Rev3_Advanced_Data_Science-main/Basic_Ray_Tutorial_with_Deep_Q_Learning.ipynb)
+### [Link to Project 1 Files]([project1_files/](https://github.com/jddavis-ai/rev-3-advanced-data-science/blob/main/Rev3_Advanced_Data_Science-main/Basic_Ray_Tutorial_with_Deep_Q_Learning.ipynb)
 
 ## Project 2: Analysis of Polio Incidences Tutorial using XGboost and Dask
 
