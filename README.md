@@ -14,9 +14,9 @@ In this project, we explore the capabilities of Ray, a powerful distributed comp
 
 3. **Custom RL Environment**: We demonstrate how to create a custom reinforcement learning environment, simulating a robot walking down a corridor. This section provides insights into creating custom environments for RL projects.
 
-### [Link to Project 1 Files](project1_files/)
+### [Link to Project 1 Files]([project1_files/)](https://github.com/jddavis-ai/rev-3-advanced-data-science/blob/main/Rev3_Advanced_Data_Science-main/Basic_Ray_Tutorial_with_Deep_Q_Learning.ipynb)
 
-## Project 2: Analysis of Polio Incidences Tutorial
+## Project 2: Analysis of Polio Incidences Tutorial using XGboost and Dask
 
 ### Overview
 
@@ -30,7 +30,7 @@ This tutorial is designed for beginners and focuses on analyzing polio incidence
 
 4. **Creating a Classifier**: We use xgboost's tree method, 'hist,' to create a classifier for our polio data.
 
-### [Link to Project 2 Files](project2_files/)
+### [Link to Project 2 Files](https://github.com/jddavis-ai/rev-3-advanced-data-science/blob/main/Rev3_Advanced_Data_Science-main/Dask_Tutorial-Distributed-Examples.ipynb)
 
 ## Project 3: What is Spark?
 
@@ -44,7 +44,7 @@ Spark is a powerful data analytics platform for processing large datasets. This 
 
 3. **Initiating and Testing Spark Workers**: We demonstrate how to set up and test Spark workers, making Spark a useful tool for large data analysis.
 
-### [Link to Project 3 Files](project3_files/)
+### [Link to Project 3 Files]([project3_files/](https://github.com/jddavis-ai/rev-3-advanced-data-science/blob/main/Rev3_Advanced_Data_Science-main/PySpark%20Beginner%20Tutorial.ipynb))
 
 ## Project 4: A "Hello World" Example of MPI on Domino
 
@@ -52,9 +52,9 @@ Spark is a powerful data analytics platform for processing large datasets. This 
 
 In this example project, we compare using a distributed system on GPUs with calculating pi on a single GPU. For both instances, we use a simple inference to approximate pi, demonstrating a significant reduction in time when using distributed systems.
 
-MPI (Message Passing Interface) is a powerful tool used in supercomputing. We provide a "hello world" example to introduce you to MPI. For more complex MPI examples, feel free to reach out to training@dominodatalab.com.
+MPI (Message Passing Interface) is a powerful tool used in supercomputing. We provide a "hello world" example to introduce you to MPI. For more complex MPI examples, feel free to reach out to jennifer.d.davis.ai@gmail.com.
 
-### [Link to Project 4 Files](project4_files/)
+### [Link to Project 4 Files](https://github.com/jddavis-ai/rev-3-advanced-data-science/blob/main/Rev3_Advanced_Data_Science-main/Calculate_Pi_MPI.ipynb)
 
 ## Additional Information
 
